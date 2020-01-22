@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhysicalLaws", "PhysicalLaws\PhysicalLaws.csproj", "{E7FFFDA9-5F8F-45BD-A1C1-1122A493EF31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForcesTest", "ForcesTest\ForcesTest.csproj", "{E40AEBFD-3F2E-4F8C-A875-C8E154B38451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FFFDA9-5F8F-45BD-A1C1-1122A493EF31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FFFDA9-5F8F-45BD-A1C1-1122A493EF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FFFDA9-5F8F-45BD-A1C1-1122A493EF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FFFDA9-5F8F-45BD-A1C1-1122A493EF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40AEBFD-3F2E-4F8C-A875-C8E154B38451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40AEBFD-3F2E-4F8C-A875-C8E154B38451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40AEBFD-3F2E-4F8C-A875-C8E154B38451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40AEBFD-3F2E-4F8C-A875-C8E154B38451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F0A43D-36C6-47C8-B361-297D8739C096}
+	EndGlobalSection
+EndGlobal

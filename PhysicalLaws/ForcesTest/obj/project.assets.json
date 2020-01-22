@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "PhysicalLaws/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/PhysicalLaws.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PhysicalLaws.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhysicalLaws/1.0.0": {
+      "type": "project",
+      "path": "../PhysicalLaws/PhysicalLaws.csproj",
+      "msbuildProject": "../PhysicalLaws/PhysicalLaws.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "PhysicalLaws >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\erica\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\erica\\OneDrive\\Documents\\C# Practice Apps\\PracticeTests\\PhysicalLaws\\ForcesTest\\ForcesTest.csproj",
+      "projectName": "ForcesTest",
+      "projectPath": "C:\\Users\\erica\\OneDrive\\Documents\\C# Practice Apps\\PracticeTests\\PhysicalLaws\\ForcesTest\\ForcesTest.csproj",
+      "packagesPath": "C:\\Users\\erica\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erica\\OneDrive\\Documents\\C# Practice Apps\\PracticeTests\\PhysicalLaws\\ForcesTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\erica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "C:\\Users\\erica\\OneDrive\\Documents\\C# Practice Apps\\PracticeTests\\PhysicalLaws\\PhysicalLaws\\PhysicalLaws.csproj": {
+              "projectPath": "C:\\Users\\erica\\OneDrive\\Documents\\C# Practice Apps\\PracticeTests\\PhysicalLaws\\PhysicalLaws\\PhysicalLaws.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {}
+    }
+  }
+}

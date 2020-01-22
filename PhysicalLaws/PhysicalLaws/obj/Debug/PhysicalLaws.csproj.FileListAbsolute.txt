@@ -1,0 +1,6 @@
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\PracticeTests\PhysicalLaws\PhysicalLaws\bin\Debug\PhysicalLaws.exe.config
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\PracticeTests\PhysicalLaws\PhysicalLaws\bin\Debug\PhysicalLaws.exe
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\PracticeTests\PhysicalLaws\PhysicalLaws\bin\Debug\PhysicalLaws.pdb
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\PracticeTests\PhysicalLaws\PhysicalLaws\obj\Debug\PhysicalLaws.csprojAssemblyReference.cache
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\PracticeTests\PhysicalLaws\PhysicalLaws\obj\Debug\PhysicalLaws.exe
+C:\Users\erica\OneDrive\Documents\C# Practice Apps\PracticeTests\PhysicalLaws\PhysicalLaws\obj\Debug\PhysicalLaws.pdb
